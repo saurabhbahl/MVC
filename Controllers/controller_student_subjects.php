@@ -15,12 +15,14 @@ class controllerSubjects
 	function getSubjectList()
 	{
 		
-			$list=$this->modal->getSubjects();
+			$list=$this->modal->getSubjects();          
 			include 'Views/student_subject_list.php';
 	//dsdsdsdsdsd
 //fdfdffdffdfdfdfdf;	
 
 //rrrrrrrrr
+#333333333333333333333333333333333333333333389999998888888832
+
 	}
 	
 	
