@@ -22,7 +22,7 @@
 //var_dump($sDetails);
  foreach($sDetails as $key => $value)
 {
- //echo " ".$value['student_name']." K ";
+ //echo " ".$value['student_name']."  ";
 
  foreach($value as $r => $k){
 //var_dump($value['id']);
