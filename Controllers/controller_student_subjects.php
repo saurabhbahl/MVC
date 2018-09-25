@@ -17,11 +17,15 @@ class controllerSubjects
 		
 			$list=$this->modal->getSubjects();          
 			include 'Views/student_subject_list.php';
-	//dsdsdsdsdsd
-//fdfdffdffdfdfdfdf;	
+			
+			
+		//dsdsdsdsdsd
+		//fdfdffdffdfdfdfdf;	
 
-//rrrrrrrrr
-#333333333333333333333333333333333333333333389999998888888832
+		//rrrrrrrrr
+		//333333333333333333333333333333333333333333389999998888888832
+		//make Changes
+		
 
 	}
 	
